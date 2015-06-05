@@ -23,7 +23,7 @@ public class TestBinaryString {
   }
   
   @Test
-  public void shouldReturnBinaryStringWhithOverBite() {
+  public void shouldReturnBinaryStringWhithOverBit() {
 	String s1 = "111";
 	String s2 = "111";
 	String expected = "1110";
